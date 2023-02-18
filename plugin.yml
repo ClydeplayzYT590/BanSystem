@@ -1,0 +1,9 @@
+name: BanSystem
+main: ClydeNoIQ/BanSystem/Main
+api: [4.15.0]
+version: 1.0
+author: ClydeNoIQ
+
+commands:
+ ban
+  description: "A simple moderation system"
